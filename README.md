@@ -1,6 +1,6 @@
 # ColorMemoryAlex
 Nothing but a memory game
 
-Press "Start Game" at the center \n
-Play the game by matching the color card \n
-add your name for top 10 ranking! \n
+1. Press "Start Game" at the center 
+2. Play the game by matching the color card 
+3. add your name for top 10 ranking! 
