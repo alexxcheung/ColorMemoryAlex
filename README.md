@@ -1,4 +1,4 @@
-# ColorMemoryAlex
+# ColorMemory
 Nothing but a memory game
 
 1. Press "Start Game" at the center 
